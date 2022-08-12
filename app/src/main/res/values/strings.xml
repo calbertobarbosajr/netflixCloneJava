@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Netflix Clone</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="repeatPassword">Repeat your password</string>
+    <string name="Signup">Not Registered? Sign Up Here</string>
+    <string name="description">
+        The mutant Geralt of Rivia is a monster hunter who struggles to find his place in a world where people are often more evil than wild creatures.
+    </string>
+    <string name="cast">Starring: Henry Cavill,Anya Chalotra,Freya Allan         Creation: Lauren Schmidt Hissrich</string>
+</resources>
